@@ -1,0 +1,8 @@
+# Example blocklist. Each entry also blocks all of its subdomains.
+# Plain domains and hosts-file lines ("0.0.0.0 domain") both work, so you can
+# paste in public ad/tracker lists.
+
+doubleclick.net
+googleadservices.com
+0.0.0.0 ads.example.com
+0.0.0.0 tracker.example.net
